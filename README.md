@@ -1,1 +1,1 @@
-# Write Up Collection
+# Writeups Collection
